@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Adam Cheema | Econ + Math | Univeristy of Chicago
+acheema4@uchicago.edu
 <!--
 **a-cheems/a-cheems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
